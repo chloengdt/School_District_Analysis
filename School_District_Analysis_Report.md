@@ -19,13 +19,13 @@ Removed Math and Reading scores from Thomas High School 9th grade affect slightl
 ![Screen Shot 2022-02-07 at 6 36 06 PM](https://user-images.githubusercontent.com/96552197/152907276-8f59566e-4886-4577-b0fa-6633b3702f09.png)
 
 ### School Summary report affects
-**Score by School type**
+** Score by School type **
 - Overall passing percentage changed slightly (Charter: 90.43% to 90.39%; District: no change)
 - Passing reading percentage changed slightly (Charter: 96.58% to 96.55%; District: no change)
 - Passing math percentage changed slightly (Charter: 93.62% to 93.61%; District: no change)
 - Average math score showed small change (Charter: 83.47 to 83.46%; District: no change)
 - Average reading score changed slightly (Charter: 83.89 to 83.90 District: no change)
-**Score by school size **
+** Score by school size **
 - Percenatge passing remain unchanged for small school size (< 1000 students) and large school size (2000-5000 students); sligtly changed on medium school size (1000-2000 students) less than 1%.
 #### Score by school size with THS 9th grade scores
 ![Screen Shot 2022-02-07 at 6 39 50 PM](https://user-images.githubusercontent.com/96552197/152907675-e20482c5-4832-47b6-8230-d4caf8b6966e.png)
@@ -33,9 +33,9 @@ Removed Math and Reading scores from Thomas High School 9th grade affect slightl
 #### Score by school size with THS 9th grade scores replaced 
 ![Screen Shot 2022-02-07 at 6 40 07 PM](https://user-images.githubusercontent.com/96552197/152907704-488277a4-0a24-4709-af54-c51996e24da0.png)
 
-**Score by spending range**
+** Score by spending range **
 - Passing scores statistics changed slighly on spending range per student.
-**Score by Grades**
+** Score by Grades **
 - Math score average and Reading score average remain unchanged for all grades from 15 schools (no data for 9th grade scores in Thomas High School)
 
 ### Thomas High School summary report affects
