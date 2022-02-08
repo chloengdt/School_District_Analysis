@@ -47,7 +47,7 @@ Removed Math and Reading scores from Thomas High School 9th grade decreased the 
 - Thomas High School ranking dropped out of top 5 (2nd place to 8th place) 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Summary 
--Removed 9th grade score of Thomas High School had negative affect on the District report as overall passing grade and average scores for both Reading and Math dropped slightly.
+- Removed 9th grade score of Thomas High School had negative affect on the District report as overall passing grade and average scores for both Reading and Math dropped slightly.
 - The school summary report affect slightly respectively to other schools in the district. 
 - Thomas High School performance report was greatly affected as their ranking dropped from second place to 8 place, the passing perecentage was dramatically decreased. 
   
