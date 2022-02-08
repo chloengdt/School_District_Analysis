@@ -13,7 +13,7 @@ Removed Math and Reading scores from Thomas High School 9th grade affect slightl
 - Average Math Score and Average Reading Score stay unchanged.
 - The total bugest, total students, and total school data remain the same. 
 #### District Report with THS 9th grade scores
-![Screen Shot 2022-02-07 at 6 34 21 PM](https://user-images.githubusercontent.com/96552197/152907040-ded435e5-c6ab-4a38-aa13-4bd59fd84de0.png)
+![Screen Shot 2022-02-07 at 6 37 15 PM](https://user-images.githubusercontent.com/96552197/152907397-afa32086-c1ad-4706-8cd3-581e1c74dd00.png)
 
 #### District Report with THS 9th grade scores replaced 
 ![Screen Shot 2022-02-07 at 6 36 06 PM](https://user-images.githubusercontent.com/96552197/152907276-8f59566e-4886-4577-b0fa-6633b3702f09.png)
@@ -27,6 +27,12 @@ Removed Math and Reading scores from Thomas High School 9th grade affect slightl
 - Average reading score changed slightly (Charter: 83.89 to 83.90 District: no change)
 **Score by school size **
 - Percenatge passing remain unchanged for small school size (< 1000 students) and large school size (2000-5000 students); sligtly changed on medium school size (1000-2000 students) less than 1%.
+#### Score by school size with THS 9th grade scores
+![Screen Shot 2022-02-07 at 6 39 50 PM](https://user-images.githubusercontent.com/96552197/152907675-e20482c5-4832-47b6-8230-d4caf8b6966e.png)
+
+#### Score by school size with THS 9th grade scores replaced 
+![Screen Shot 2022-02-07 at 6 40 07 PM](https://user-images.githubusercontent.com/96552197/152907704-488277a4-0a24-4709-af54-c51996e24da0.png)
+
 **Score by spending range**
 - Passing scores statistics changed slighly on spending range per student.
 **Score by Grades**
